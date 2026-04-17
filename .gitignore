@@ -1,0 +1,25 @@
+Environments
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+IDE / OS
+
+.idea/
+.vscode/
+*.DS_Store
+
+Cloudflare
+
+.wrangler/
